@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+.body-background {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f0f0f0;
+  /* Add any other styles you want */
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  margin-block-start: 0.33em;
+  margin-block-end: 0.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url('images/crash.png');
+}
+
+.a {
+  background-image: url('images/kick.png');
+}
+
+.s {
+  background-image: url('images/snare.png');
+}
+
+.d {
+  background-image: url('images/tom1.png');
+}
+
+.j {
+  background-image: url('images/tom2.png');
+}
+
+.k {
+  background-image: url('images/kick.png');
+}
+
+.l {
+  background-image: url('images/bro.jpg');
+  background-size: 150px 150px;
+}
+.z {
+  background-image: url('images/women.jpg');
+  background-size: 150px 150px;
+
+}
+
+.x {
+  background-image: url('images/lips.jpeg');
+  background-size: 150px 150px;
+}
+.b {
+  background-image: url('images/tom1.png');
+}
+
+.n {
+  background-image: url('images/crash.png');
+}
+
+.m {
+  background-image: url('images/tom3.png');
+}
+.set {
+  margin-top: 7% ;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.7;
+  /* background-image: url('swap/birthday.jpg'); */
+  background-size: cover;
+  background-position: center;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.drum1 {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 1.5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
